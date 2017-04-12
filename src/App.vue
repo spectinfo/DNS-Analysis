@@ -14,7 +14,7 @@ export default {
   components: {head1},
   data () {
     return{
-      Atest:'hello world',
+      Atest:'hello world1',
       activeIndex: '1'
     }
   },
